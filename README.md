@@ -1,8 +1,6 @@
 # TasksApp
 App para armazenar e gerenciar uma lista de tarefas
 
-<br>
-
 ## Home
 ![image](https://github.com/gusrapaiva/tasksApp/assets/127103850/918b4e06-a7e9-40f6-8ee0-222a530c1f83)
 
